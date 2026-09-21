@@ -117,4 +117,4 @@ The project helps answer questions such as:
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 ## Power BI Dashboard
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](dashboardd.png)
