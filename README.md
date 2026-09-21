@@ -78,6 +78,15 @@ SQL was used to perform:
 - Payment mode analysis
 - Customer segment analysis
 - Profit margin calculation
+- ## Key Insights
+
+- Total sales generated: ₹3.39M
+- Total profit generated: ₹1.03M
+- Overall profit margin: 30.42%
+- Electronics generated the highest sales among the categories.
+- Sales performance varies across the four regions.
+- The dashboard identifies the top 10 customers based on sales.
+- Payment-mode analysis shows differences in customer payment preferences.
 
 ## 💡 Key Analysis Areas
 
